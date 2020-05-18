@@ -1,0 +1,107 @@
+.column1-france{
+	background-color: #0055A4;
+}
+.column2-france{
+	background-color: #EF4135;
+}
+.info-france{
+	background-color: #ffffff;
+	color: black;
+}
+#button-france{
+	background-color: #EF4135;
+	color: white;
+}
+
+
+/* FOR ARGENTINA THEME*/
+.column1-argentina{
+	background-color: #75AADB;
+}
+.column2-argentina{
+	background-color: #ffffff;
+}
+#infor-argentina{
+	background-color: #FCBF49;
+	color: #843511;
+}
+#button-argentina{
+	background-color: #FCBF49;
+	color: #843511;
+}
+
+/* FOR Brazil THEME*/
+.column1-brazil{
+	background-color: #009C3B;
+}
+.column2-brazil{
+	background-color: #FFDF00;
+}
+#infor-brazil{
+	background-color: #FCBF49;
+	color: #843511;
+}
+#button-brazil{
+	background-color: #002776;
+	color: #FFDF00;
+}
+
+
+/* FOR PORTUGAL THEME*/
+.column1-portugal{
+	background-color: #006600;
+}
+.column2-portugal{
+	background-color: #FF0000;
+}
+#infor-portugal{
+	background-color: #FCBF49;
+	color: #843511;
+}
+#button-portugal{
+	background-color: #FFFF00;
+	color: #003399;
+}
+
+
+/* FOR SPAIN THEME*/
+.column1-spain{
+	background-color: #AA151B;
+}
+.column2-spain{
+	background-color: #F1BF00;
+}
+#infor-spain{
+	background-color: #FCBF49;
+	color: #843511;
+}
+#button-spain{
+	background-color: #0039F0;
+	color: #CCCCCC;
+}
+
+
+/* FOR MEXICO THEME*/
+.column1-mexico{
+	background-color: #006341;
+}
+.column2-mexico{
+	background-color: #CE1126;
+}
+#infor-mexico{
+	background-color: #FCBF49;
+	color: #843511;
+}
+#button-mexico{
+	background-color: #cd853f;
+	color: #ffe4c4;
+}
+
+
+
+
+
+
+
+
+
